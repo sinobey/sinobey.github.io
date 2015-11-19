@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:CDE98C9C-5E37-46F9-B4A4-AFA752DF89D5</id>
  <title>Page list Atom feed</title>
- <updated>2015-11-18T21:48:41-05:00</updated>
+ <updated>2015-11-18T21:54:53-05:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -10,11 +10,11 @@
  </author>
  <entry>
   <id>urn:iweb:FEFC82FE-5DE5-4D09-881D-F20FB03A28EB</id>
-  <title>Blank</title>
-  <title xmlns="urn:iweb:">Blank</title>
+  <title>Coming Soon</title>
+  <title xmlns="urn:iweb:">Coming Soon</title>
   <in-navbar xmlns="urn:iweb:">FEFC82FE-5DE5-4D09-881D-F20FB03A28EB</in-navbar>
-  <link rel="alternate" href="Blank.html"/>
-  <updated>2015-11-18T21:48:41.001-05:00</updated>
-  <content>Blank</content>
+  <link rel="alternate" href="Coming_Soon.html"/>
+  <updated>2015-11-18T21:54:53.001-05:00</updated>
+  <content>Coming Soon</content>
  </entry>
 </feed>
